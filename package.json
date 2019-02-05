@@ -8,6 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^1.0.0",
+    "@nimiq/iqons": "https://github.com/nimiq/iqons.git#42ca09c53f2f29eb61f9293e246e3b3234c23d2d",
+    "@nimiq/vue-components": "https://github.com/nimiq/vue-components.git#build/accounts-new",
+    "@nimiq/nimiq-utils": "https://github.com/nimiq/nimiq-utils.git#daniel/tico-blockchain",
+    "@nimiq/secure-utils": "https://github.com/nimiq/secure-utils.git",
     "vue": "^2.5.22"
   },
   "devDependencies": {
